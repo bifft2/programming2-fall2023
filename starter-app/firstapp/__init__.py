@@ -1,17 +1,3 @@
-print("hello world")
-
-
-# this is a single line comment
-
-"""
-Task:
-- ask the user for one number
-- ask the user for another number
-- print the sum of their numbers
-"""
-number_1 = input("Enter a number: ")
-number_2 = input("Enter another number: ")
-
 
 
 
