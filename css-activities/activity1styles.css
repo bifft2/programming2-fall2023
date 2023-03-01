@@ -1,0 +1,15 @@
+div {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	background-color: red;
+}
+
+.alert-text {
+
+}
+
+#myGreatButton {
+ background-color: blue;
+}

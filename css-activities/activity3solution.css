@@ -1,0 +1,24 @@
+.inverted,
+.fancy,
+.name-input {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+}
+
+.name-input {
+  margin-top: 15px;
+}
+
+.input-box {
+  width: 300px;
+  font-size: 28px;
+}
