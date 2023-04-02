@@ -1,0 +1,43 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+.one {
+  background: violet;
+/*  width: 400px;*/
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: 50%;
+/*  min-height: ;*/
+/*  max-height: ;*/
+/*  min-width: ;*/
+/*  max-width: ;*/
+}
+
+.two {
+  background: darkorange;
+/*  width: 400px;*/
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: 25%;
+/*  min-height: ;*/
+/*  max-height: ;*/
+/*  min-width: ;*/
+/*  max-width: ;*/
+}
+
+.three {
+  background: darkseagreen;
+/*  width: 400px;*/
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: 25%;
+/*  min-height: ;*/
+/*  max-height: ;*/
+/*  min-width: ;*/
+/*  max-width: ;*/
+}
