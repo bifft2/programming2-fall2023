@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Blackjack</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<h1>Blackjack</h1>
+    <button id="instructions-btn" onclick="openInstructions()">Instructions</button>
+    <button onclick="reset()">Start Game</button>
+    <div id="hit-and-stay">
+    	<button onclick="hit()">Hit</button>
+    	<button onclick="stay()">Stay</button>
+    </div>
+
+	<!-- The Modal -->
+	<div id="myModal" class="modal">
+
+	  <!-- Modal content -->
+	  <div class="modal-content">
+	    <span id="close" onclick="closeInstructions()">&times;</span>
+	    <p>Some text in the Modal..</p>
+	  </div>
+
+	</div>
+	<script type="text/javascript" src="index.js"></script>
+</body>
+</html>
