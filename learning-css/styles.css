@@ -1,0 +1,25 @@
+li {
+	color: red;
+}
+
+h2 {
+	color: teal;
+    cursor:crosshair;
+
+}
+
+h1, h2 {
+	color: royalblue;
+}
+
+#main-header {
+	background-color: green;
+}
+
+#hotdog {
+	color: teal;
+}
+
+.header {
+	background-color: gray;
+}
